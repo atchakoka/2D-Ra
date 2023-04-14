@@ -27,5 +27,9 @@ public class OpenInventory : MonoBehaviour
             }
             
         }
+        if(Input.GetKeyDown(KeyCode.I))
+        {
+            gameObject.GetComponent<Inventory>().Add(displayName AppleData);
+        }
     }
 }

@@ -12,18 +12,18 @@ public class InventoryItem
     public ItemData itemData;
     public int stackSize;
 
-    public InventoryItem(ItemData item)
+    public InventoryItem(ItemData item) //Bestemmer hva objektet skal hete og æker verdien stackSize
     {
         itemData = item;
         AddToStack();
     }
 
-    public void AddToStack()
+    public void AddToStack() //Øker variablen stackSize
     {
         stackSize++;
     }
 
-    public void RemoveFromStack()
+    public void RemoveFromStack() //Minsker variablen stackSize
     {
         stackSize--;
     }
