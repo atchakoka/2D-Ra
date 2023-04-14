@@ -1,3 +1,5 @@
+//Kopiert fra YouTube, vet ikke helt hvordan scripten fungerer.
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
