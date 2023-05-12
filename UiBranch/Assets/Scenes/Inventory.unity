@@ -434,7 +434,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Medieval 2D platformer
+  m_text: Invictus
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 491c9fa2ccec7094b892469d27cad9ae, type: 2}
   m_sharedMaterial: {fileID: 7920084435552343756, guid: 491c9fa2ccec7094b892469d27cad9ae, type: 2}
@@ -1210,7 +1210,7 @@ GameObject:
   - component: {fileID: 598231148}
   - component: {fileID: 598231147}
   m_Layer: 5
-  m_Name: Panel
+  m_Name: Button panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2739,7 +2739,7 @@ GameObject:
   - component: {fileID: 1460617471}
   - component: {fileID: 1460617470}
   m_Layer: 5
-  m_Name: Panel
+  m_Name: Title panel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
